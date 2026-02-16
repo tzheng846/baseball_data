@@ -1,0 +1,28 @@
+# Core dependencies for pitch_analysis_clean.ipynb
+#
+# For pip (with CUDA):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#   pip install -r requirements.txt
+#
+# For conda (recommended):
+#   conda env create -f environment.yml
+
+# PyTorch - install separately with CUDA support (see above)
+# torch
+# torchvision
+# torchaudio
+
+# Data processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Machine learning
+scikit-learn
+scipy
+
+# Jupyter
+jupyter
+ipykernel
