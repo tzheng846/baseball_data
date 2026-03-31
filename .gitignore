@@ -5,3 +5,8 @@
 /pitch
 /plots
 /processed_data
+/models
+/.paul
+/__pycache__
+*.pdf
+test.ipynb
